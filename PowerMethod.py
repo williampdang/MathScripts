@@ -1,6 +1,9 @@
 import numpy as np
 import sys
 
+# Program prompts user out of the console for vector 0 and the array
+# Prints out the current x vector, Ax matrix, and mu value for each iteration
+
 # class constants for the methods
 SPACING = 10
 ROUNDTO = 4
